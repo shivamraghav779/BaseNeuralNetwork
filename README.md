@@ -1,4 +1,4 @@
-# Neural Network from Scratch (77 Lines of Code)
+# Neural Network from Scratch
 
 This project implements a simple neural network from scratch using pure Python — without relying on any machine learning frameworks.
 
